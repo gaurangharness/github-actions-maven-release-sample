@@ -1,4 +1,4 @@
-# Github action maven release - Sample test project
+# Github action maven release - Sample project
 
 This repository is a sample project to show you a usage of [the maven github action](https://github.com/qcastel/github-actions-maven-release) 
 in a dummy Java application.
