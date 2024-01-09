@@ -60,7 +60,7 @@
 				</executions>
 				<configuration>
 					<from>
-						<image>gaurangkudale/docker-alpine-with-bash:0.3</image>
+						<image>qcastel/docker-alpine-with-bash:0.3</image>
 					</from>
 					<to>
 						<image>registry.hub.docker.com/gaurangkudale/github-actions-maven-release-sample</image>
