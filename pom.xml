@@ -63,7 +63,7 @@
 						<image>qcastel/docker-alpine-with-bash:0.3</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/qcastel/github-actions-maven-release-sample</image>
+						<image>registry.hub.docker.com/gaurangkudale/github-actions-maven-release-sample</image>
 						<tags>
 							<tag>${project.version}</tag>
 							<tag>latest</tag>
