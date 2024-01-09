@@ -22,7 +22,7 @@
 	<scm>
 		<connection>scm:git:${project.scm.url}</connection>
 		<developerConnection>scm:git:${project.scm.url}</developerConnection>
-		<url>git@github.com:qcastel/github-actions-maven-release-sample.git</url>
+		<url>git@github.com:gaurangkudale/github-actions-maven-release-sample.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
@@ -60,7 +60,7 @@
 				</executions>
 				<configuration>
 					<from>
-						<image>qcastel/docker-alpine-with-bash:0.3</image>
+						<image>gaurangkudale/docker-alpine-with-bash:0.3</image>
 					</from>
 					<to>
 						<image>registry.hub.docker.com/gaurangkudale/github-actions-maven-release-sample</image>
